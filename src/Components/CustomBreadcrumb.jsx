@@ -7,7 +7,7 @@ const CustomBreadcrumb = () => {
   return (
     <>
       {/* First Breadcrumb */}
-      <Breadcrumb className='bg-red-400'>
+      {/* <Breadcrumb className='bg-red-400'>
         <Breadcrumb.Item>Home</Breadcrumb.Item>
         <Breadcrumb.Item>
           <a href="https://mobiusdtaas.atlassian.net/wiki/spaces/MIA/pages/2365947905/ImpressIO+ngrok+details">
@@ -15,7 +15,7 @@ const CustomBreadcrumb = () => {
           </a>
         </Breadcrumb.Item>
         <Breadcrumb.Item>Subsection</Breadcrumb.Item>
-      </Breadcrumb>
+      </Breadcrumb> */}
 
       {/* Second Breadcrumb */}
       <div className="mt-4 bg-neutral-300">
